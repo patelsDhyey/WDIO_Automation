@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//option[text()='6' and @selected='selected']"
+}

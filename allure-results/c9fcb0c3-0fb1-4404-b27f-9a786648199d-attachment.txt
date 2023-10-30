@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[.='College Fees - Semester 7']/parent::td/following-sibling::td//a"
+}

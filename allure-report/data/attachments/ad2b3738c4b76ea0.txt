@@ -1,0 +1,3 @@
+{
+  "url": "https://awesomeqa.com/ui/index.php?route=account/register"
+}

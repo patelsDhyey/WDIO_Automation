@@ -1,0 +1,46 @@
+{
+  "script": "arguments[0].style='background-color:unset;'",
+  "args": [
+    {
+      "sessionId": "e32019139fabe97ce72434afe2a1b678",
+      "elementId": "3E133634D5B75CD9E7EDA21126B0C477_element_41",
+      "element-6066-11e4-a52e-4f735466cecf": "3E133634D5B75CD9E7EDA21126B0C477_element_41",
+      "selector": "//*[normalize-space()=\"SEMESTER GRADE REPORT\"]",
+      "parent": {
+        "sessionId": "e32019139fabe97ce72434afe2a1b678",
+        "capabilities": {
+          "acceptInsecureCerts": false,
+          "browserName": "chrome",
+          "browserVersion": "118.0.5993.117",
+          "chrome": {
+            "chromedriverVersion": "118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})",
+            "userDataDir": "/var/folders/rs/wwhf4vgj64766m07fft6m9cm0000gn/T/.org.chromium.Chromium.nRToNZ"
+          },
+          "fedcm:accounts": true,
+          "goog:chromeOptions": {
+            "debuggerAddress": "localhost:58691"
+          },
+          "networkConnectionEnabled": false,
+          "pageLoadStrategy": "normal",
+          "platformName": "mac",
+          "proxy": {},
+          "setWindowRect": true,
+          "strictFileInteractability": false,
+          "timeouts": {
+            "implicit": 0,
+            "pageLoad": 300000,
+            "script": 30000
+          },
+          "unhandledPromptBehavior": "dismiss and notify",
+          "webauthn:extension:credBlob": true,
+          "webauthn:extension:largeBlob": true,
+          "webauthn:extension:minPinLength": true,
+          "webauthn:extension:prf": true,
+          "webauthn:virtualAuthenticators": true
+        }
+      },
+      "isReactElement": false,
+      "isShadowElement": false
+    }
+  ]
+}

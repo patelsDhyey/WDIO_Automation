@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 30 22:48:06 IST 2023","Mon Oct 30 22:48:08 IST 2023","2539","","Egovernance Login","","","","Script should log into e-governance ; Positive Testing ",""
+"passed","Mon Oct 30 22:47:16 IST 2023","Mon Oct 30 22:47:58 IST 2023","42372","","Open Cart Login","","","","Script should not log into openCart",""
+"passed","Mon Oct 30 22:48:08 IST 2023","Mon Oct 30 22:48:19 IST 2023","11266","","Egovernance Login","","","","Land to home page and navigating to different functionality",""
+"passed","Mon Oct 30 22:47:58 IST 2023","Mon Oct 30 22:48:02 IST 2023","4003","","Open Cart Login","","","","Navigation and logout ",""
+"passed","Mon Oct 30 22:47:13 IST 2023","Mon Oct 30 22:47:13 IST 2023","1","","Egovernance Login","","","","Should fail the login",""
+"passed","Mon Oct 30 22:47:09 IST 2023","Mon Oct 30 22:47:13 IST 2023","4311","","Egovernance Login","","","","Script should not log into e-governance ; Negative testing",""

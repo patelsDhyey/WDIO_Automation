@@ -1,0 +1,6 @@
+{
+  "script": "arguments[0].style='background-color:'orange'",
+  "args": [
+    {}
+  ]
+}

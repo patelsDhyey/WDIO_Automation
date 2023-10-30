@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class='col-sm-12 div_hover']"
+}
